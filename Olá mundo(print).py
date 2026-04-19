@@ -1,3 +1,3 @@
-Hello = print
-print = "Hello"
-Hello(print)
+HelloWorld = print
+print = "Hello World!"
+HelloWorld(print)
